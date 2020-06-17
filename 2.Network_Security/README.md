@@ -26,12 +26,13 @@
   - Nmap Scripting Engine (NSE)
 - Enumeration
 	- NetBIOS
-    - List/Find open shares
-    - Enumerate open shares
+		- List/Find open shares
+		- Enumerate open shares
+		- Null Session
 	- SNMP
-    - snmpwalk
-    - snmpset
-    - NSE 
+		- snmpwalk
+		- snmpset
+		- NSE
 - Sniffing and MITM
 	- LLMNR/NBT-NS Poisoning
   - ARP Poisoning
@@ -46,10 +47,10 @@
     - AutoBlue (non-metasploit way)
 - Post-Exploitation
 	- Windows Privilege Escalation
-    - Metasploit's "getsystem"
-    - Token_Impersonation 
-    - Unquoted Service Path
-    - DLL Hijacking
+		- Metasploit's "getsystem"
+		- Token Impersonation
+		- Unquoted Service Path
+		- DLL Hijacking
   - Maintaining Access
     - Password Hashes
     - RDP 
