@@ -1,6 +1,4 @@
-# PTPv5
 Mindmap/CheatSheet for eLearnSecurity-PTPv5
-
 # PTPv5 - eLearnSecurity
 # Table of Contents 
 - [System Security](#System-Security)
