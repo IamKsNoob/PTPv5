@@ -22,14 +22,14 @@ This sections covers the basics of system architecture fundamentals needed to ta
 ## Network Security
 This section has the largest amount of content in the whole course. It covers <u>network penetration testing methodology</u>, <u>Anonymity</u> and <u>Social Engineering</u>.
 
-- Information Gathering
-- Scanning
-- Enumeration
-- Sniffing and MITM Attacks
-- Exploitation
-- Post-Exploitation
-- Anonymity
-- Social Engineering
+- [x] Information Gathering
+- [x] Scanning
+- [x] Enumeration
+- [x] Sniffing and MITM Attacks
+- [x] Exploitation
+- [x] Post-Exploitation
+- [] Anonymity 
+- [] Social Engineering
 
 ## Powershell for Pentester
 This section covers the basics of **Windows Powershell** and the **Offensive usage of Windows Powershell**.
