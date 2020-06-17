@@ -1,0 +1,45 @@
+# Module 2 - Network Security
+
+# Topics Covered
+
+- Information Gathering 
+	- Introduction to Information Gathering 
+	- Search Engines
+	- Social Medias
+	- Infrastructure
+- Scanning
+	- Introduction to Scanning  
+	- Live Hosts Discovery & Ports Scanning
+	- Serivce and OS detection 
+	- Firewall / IDS Evasion
+- Enumeration
+	- NetBIOS
+	- SNMP
+- Sniffing and MITM
+	- What is Sniffing ?
+	- Sniffing In Action
+	- ARP 
+	- Sniffing Tools
+	- MITM Attacks
+	- Attacking Tools 
+	- Intercept SSL Traffic 
+- Vulnerability Assessment and Exploitation
+	- Vulnerability Assessment
+	- Low-Hanging fruits
+	- Exploitation
+- Post-Exploitation
+	- Introduction
+	- Privilege Escalation and Maintaining Access
+	- Pillaging
+	- Mapping the Internal Network
+	- Pivoting
+	- Exploitation through Pivoting
+- Anonymity 
+	- Browsing Anonymously
+	- Tunneling for Anonymity
+- Social Engineering
+	- Introduction to Social Engineering
+	- Types of Social Engineering 
+	- Sample of Social Engineering Attacks 
+	- Pretxting Samples
+	- Tools 
