@@ -1,5 +1,7 @@
 # Note: 
-Sorry if this is too messy, this is my first time using Xmind to do my notes/cheatsheet 
+Sorry if this is too messy, this is my first time using Xmind to do my notes/cheatsheet
+
+I recommend using the Xmind app to open the mindmap as the PDF format is harder to read due to the mindmap being too big
 
 Feel free to let me know on discord if i mistyped anything or wrote anything wrongly 
 
