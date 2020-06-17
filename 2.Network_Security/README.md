@@ -1,13 +1,62 @@
-# Note: 
+# Topics Included
 
-Sorry if the mindmap/cheatsheet is too messy.
-
-Do let me know if I have mistyped anything or fat-fingered any commands
-
-This mindmap is created/developed using Xmind.
-
-Formats Available 
-- PDF
-- Xmind 
-
-Let me know if you need any other formats, i will try my best to upload it here
+- Information Gathering 
+	- Data Harvesting
+  - DNS Enumeration
+    - DNS Lookup
+    - Reverse DNS Lookup
+    - Mail Exchange Lookup
+    - DNS Zone Transfer
+- Scanning
+	- Nmap
+    - Port Scanning
+      - TCP
+      - UDP 
+      - IP 
+    - Service + OS Fingerprinting 
+      - Service Scanning
+      - OS Fingerprinting 
+    - FTP Bounce Attack
+    - Firewall + IDS Evasion 
+      - Fragmentation
+      - Decoys
+      - Timing 
+      - Source Ports
+    - Idle Scans
+  - Nmap Scripting Engine (NSE)
+- Enumeration
+	- NetBIOS
+    - List/Find open shares
+    - Enumerate open shares
+	- SNMP
+    - snmpwalk
+    - snmpset
+    - NSE 
+- Sniffing and MITM
+	- LLMNR/NBT-NS Poisoning
+  - ARP Poisoning
+  - MAC Flooding
+  - Intercepting SSL Traffic
+- Vulnerability Assessment and Exploitation
+	- Vulnerability Assessment
+	- Authentication Brute-forcing
+  - SMB Relay
+  - EternalBlue (MS17-010)
+    - Metasploit 
+    - AutoBlue (non-metasploit way)
+- Post-Exploitation
+	- Windows Privilege Escalation
+    - Metasploit's "getsystem"
+    - Token_Impersonation 
+    - Unquoted Service Path
+    - DLL Hijacking
+  - Maintaining Access
+    - Password Hashes
+    - RDP 
+    - Backdoors
+  - Pillaging
+    - Data Harvesting
+    - Data Exfiltration
+  - Pivoting
+    - Sock4a proxy + Proxychains
+    - Portfwd
