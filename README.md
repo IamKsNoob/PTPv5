@@ -28,8 +28,8 @@ This section has the largest amount of content in the whole course. It covers <u
 - [x] Sniffing and MITM Attacks
 - [x] Exploitation
 - [x] Post-Exploitation
-- [] Anonymity 
-- [] Social Engineering
+- Not Included : Anonymity 
+- Not Included : Social Engineering
 
 ## Powershell for Pentester
 This section covers the basics of **Windows Powershell** and the **Offensive usage of Windows Powershell**.
