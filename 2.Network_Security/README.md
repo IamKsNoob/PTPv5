@@ -1,6 +1,7 @@
-This is my personal mindmap/cheatsheet.
+# Note: 
 
-Sorry, if it feels too messy for you. 
+Sorry if the mindmap/cheatsheet is too messy.
+
+Do let me know if I have mistyped anything or fat-fingered any commands
 
 
-Do also let me know if i miss out anything or fat-fingered any commands there.
