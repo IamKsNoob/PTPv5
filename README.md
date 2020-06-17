@@ -41,10 +41,11 @@ This section covers the basics of **Windows Powershell** and the **Offensive usa
 ## Linux Exploitation
 This section covers the methodology and techniques to exploiting a Linux-based system, ranging from Information Gathering to Post-Exploitation.
 
-- Introduction to Linux
-- Information Gathering
-- Remote Exploitation ( Exploitation over the Network )
+- [x] Introduction to Linux
+- [x] Information Gathering
+- [x] Remote Exploitation ( Exploitation over the Network )
 - Post-Exploitation
+  - Currently, working on https://tryhackme.com/room/linuxprivesc , will update the Privilege Escalation portion soon 
 
 ## Web Application Security
 This section covers the common vulnerabilities found in modern Web Application and how to exploit them.
