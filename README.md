@@ -22,14 +22,14 @@ This sections covers the basics of system architecture fundamentals needed to ta
 ## Network Security
 This section has the largest amount of content in the whole course. It covers <u>network penetration testing methodology</u>, <u>Anonymity</u> and <u>Social Engineering</u>.
 
-- Information Gathering
-- Scanning
-- Enumeration
-- Sniffing and MITM Attacks
-- Exploitation
-- Post-Exploitation
-- Anonymity
-- Social Engineering
+- [x] Information Gathering
+- [x] Scanning
+- [x] Enumeration
+- [x] Sniffing and MITM Attacks
+- [x] Exploitation
+- [x] Post-Exploitation
+- Not Included : Anonymity 
+- Not Included : Social Engineering
 
 ## Powershell for Pentester
 This section covers the basics of **Windows Powershell** and the **Offensive usage of Windows Powershell**.
@@ -41,10 +41,11 @@ This section covers the basics of **Windows Powershell** and the **Offensive usa
 ## Linux Exploitation
 This section covers the methodology and techniques to exploiting a Linux-based system, ranging from Information Gathering to Post-Exploitation.
 
-- Introduction to Linux
-- Information Gathering
-- Remote Exploitation ( Exploitation over the Network )
+- [x] Introduction to Linux
+- [x] Information Gathering
+- [x] Remote Exploitation ( Exploitation over the Network )
 - Post-Exploitation
+  - Currently, working on https://tryhackme.com/room/linuxprivesc , will update the Privilege Escalation portion soon 
 
 ## Web Application Security
 This section covers the common vulnerabilities found in modern Web Application and how to exploit them.
