@@ -1,3 +1,9 @@
+# Note: 
+Sorry if this is too messy, this is my first time using Xmind to do my notes/cheatsheet 
+
+Feel free to let me know if i mistyped anything or wrote anything wrongly
+
+
 # Topics Included
 
 - Information Gathering 
